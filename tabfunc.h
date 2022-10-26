@@ -1,0 +1,1 @@
+void tabfunc(char *a);

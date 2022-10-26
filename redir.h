@@ -1,0 +1,1 @@
+void redir(char *a);
